@@ -35,7 +35,7 @@ dispatch(deleteTodo(id))
     }
 
     return (
-        <div >
+        <div className={"container"} >
       <div className="card">
 
               <input

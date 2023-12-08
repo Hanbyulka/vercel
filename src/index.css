@@ -26,7 +26,7 @@ code {
   box-sizing: border-box;
 }
 .container{
-  width: 1120px;
+  width: 900px;
   margin: 0 auto;
 }
 .card{
@@ -93,5 +93,6 @@ button:hover:before{
   width: 100%;
 }
 h1{
+  line-height: 30px;
   color: #00eeff;
 }
